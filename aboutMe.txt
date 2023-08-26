@@ -1,0 +1,3 @@
+Admission: 126470
+Name: Ronald Mwambia
+Project Title: A MOBILE BASED APPLICATION TO STORE AND BLUR PERSONAL DATA
